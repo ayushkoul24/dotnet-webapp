@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PoW0Q9j9I//77l9qtEKahF3ZDHx+vqfXQCa+9Bt53eg=",
+  "Source": "dotnet-webapp-core",
+  "BasePath": "_content/dotnet-webapp-core",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
